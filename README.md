@@ -3,11 +3,18 @@
 
 ### 👩‍💻 About Me: 
 
-I am a Data Analyst from the Chicagoland area. 
+- 🔭 I am a Data Analyst located in the Chicagoland area. 
 
-- 📘 Recectly completed a Data Analytics and Visualization Boot Camp at Northwestern University.
+- 📘 Recectly certified from Northwestern University in Data Analytics and Visualizations.
 
 - 📫 Email: kealvarez22@gmail.com| LinkedIn: https://www.linkedin.com/in/karina-alvarez-/
+
+---
+
+### 🔥 My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kealvarez)](https://git.io/streak-stats)
+
 
 
 
