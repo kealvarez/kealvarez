@@ -7,7 +7,7 @@
 
 - 📘 Recectly certified from Northwestern University in Data Analytics and Visualizations.
 
-- 📫 Email: kealvarez22@gmail.com| LinkedIn: https://www.linkedin.com/in/karina-alvarez-/
+- 📫 Email: kealvarez22@gmail.com | LinkedIn: https://www.linkedin.com/in/karina-alvarez-/
 
 ---
 
