@@ -13,8 +13,9 @@
 
 ### 🔥 My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kealvarez)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kealvarez&theme=default)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kealvarez&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
