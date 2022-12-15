@@ -1,4 +1,4 @@
-![GitHubReadME](https://user-images.githubusercontent.com/107150088/207962312-cbbaddc5-7388-4f06-84ad-d78d7c4db858.png)
+![GitHubReadME](https://user-images.githubusercontent.com/107150088/207963110-b5495fe8-a738-430c-99b8-7840d24c0078.png)
 
 ---
 
