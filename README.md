@@ -1,16 +1,5 @@
-<!-- ![GitHubReadME](https://user-images.githubusercontent.com/109315304/181862985-198f525e-a3e3-47dd-ba6e-902bf25c532c.png)
- -->
- 
-<!--  ![githubreadme](./Downloads//githubheader.png?raw=true "Header")
-  -->
-  
-<!-- <img src="Downloads//githubheader.png" alt="Alt text" title="Optional title">
- -->
- 
-<!--  
-![Alt text](.../Downloads//githubheader.png "Optional title") -->
-  
-### 👋 Hi! My name is Karina
+![GitHubReadME](https://user-images.githubusercontent.com/107150088/207962312-cbbaddc5-7388-4f06-84ad-d78d7c4db858.png)
+
 ---
 
 <!-- ### 👩‍💻 About Me: 
