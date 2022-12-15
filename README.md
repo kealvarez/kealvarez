@@ -2,13 +2,9 @@
 
 ---
 
-<!-- ### 👩‍💻 About Me: 
- -->
-- 🔭 I am a Data Analyst located in the Chicagoland area. 
+<h3 align="center">About Me</h3>
 
-- 📘 Recectly certified from Northwestern University in Data Analytics and Visualizations.
-
-- 📫 Email: kealvarez22@gmail.com | LinkedIn: https://www.linkedin.com/in/karina-alvarez-/
+<p align="center"> I am a <b>Data Analyst</b> located in the Chicagoland area. <br> <br> I recently completed a <b>Data Analytics and Visualizations Bootcamp at Northwestern University</b></br> <br> Email: kealvarez22@gmail.com | LinkedIn: https://www.linkedin.com/in/karina-alvarez-/</br> </p>
 
 ---
 
@@ -20,6 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
